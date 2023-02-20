@@ -1,0 +1,10 @@
+/*Css stylesheet for creating dark mode web pages*/
+
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color: #171717;
+    color: whitesmoke;
+}
